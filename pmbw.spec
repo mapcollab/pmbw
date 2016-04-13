@@ -34,3 +34,9 @@ install -m755 stats2gnuplot %{buildroot}/%{_bindir}/
 
 
 %changelog
+* Wed Apr 13 2016 Tomasz Rostanski <tomasz.rostanski@thalesgroup.com> 0.6.2-1
+- new package built with tito
+
+* Wed Apr 13 2016 Tomasz Rostanski <tomasz.rostanski@thalesgroup.com> 0.6.2-1
+- new package built with tito
+
